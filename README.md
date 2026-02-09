@@ -8,9 +8,9 @@ I build interactive web apps and AI-powered tools. My specialty is converting co
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fauxfireofficial&show_icons=true&theme=tokyonight&hide_border=true" alt="Main Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauxfireofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fauxfireofficial&show_icons=true&theme=radical&hide_border=true" alt="Main Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauxfireofficial&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
