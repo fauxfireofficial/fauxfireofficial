@@ -6,18 +6,17 @@ I build interactive web apps and AI-powered tools. My specialty is converting co
 ---
 
 ## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fauxfireofficial&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats Card" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauxfireofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Languages Card" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fauxfireofficial&show_icons=true&theme=tokyonight&hide_border=true" alt="Main Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauxfireofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), PHP
 - **Mobile:** Apache Cordova (Hybrid App Development)
 - **APIs:** Pollinations AI, LocalStorage Logic
 - **Tools:** Git, GitHub, Uptodown Publishing
@@ -25,4 +24,10 @@ I build interactive web apps and AI-powered tools. My specialty is converting co
 ---
 
 ## 📱 Featured Project: Pixo AI
-Currently published on **Uptodown** with 35+ downloads. A testament to my ability to deliver production-ready mobile solutions.
+Currently published on **Uptodown** with 35+ downloads. [View on Uptodown](https://pixo.en.uptodown.com/android)
+
+---
+
+## 📫 Let's Connect
+- 🌍 GitHub: [@fauxfireofficial](https://github.com/fauxfireofficial)
+- ✉️ Email: fauxfireofficial@gmail.com
